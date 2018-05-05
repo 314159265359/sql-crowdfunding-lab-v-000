@@ -19,25 +19,25 @@ INSERT INTO users VALUES (7, "g7", 70);
 INSERT INTO users VALUES (8, "h8", 80);
 INSERT INTO users VALUES (9, "i9", 90);
 INSERT INTO users VALUES (10, "j10", 100);
-INSERT INTO users VALUES (11, "k11", 10);
-INSERT INTO users VALUES (12, "l12", 20);
-INSERT INTO users VALUES (13, "m13", 30);
-INSERT INTO users VALUES (14, "n14", 40);
-INSERT INTO users VALUES (15, "o15", 50);
-INSERT INTO users VALUES (16, "p16", 60);
-INSERT INTO users VALUES (17, "q17", 70);
-INSERT INTO users VALUES (18, "r18", 80);
-INSERT INTO users VALUES (19, "s19", 90);
-INSERT INTO users VALUES (20, "t20", 100);
+INSERT INTO users VALUES (11, "k11", 11);
+INSERT INTO users VALUES (12, "l12", 21);
+INSERT INTO users VALUES (13, "m13", 31);
+INSERT INTO users VALUES (14, "n14", 41);
+INSERT INTO users VALUES (15, "o15", 51);
+INSERT INTO users VALUES (16, "p16", 61);
+INSERT INTO users VALUES (17, "q17", 71);
+INSERT INTO users VALUES (18, "r18", 81);
+INSERT INTO users VALUES (19, "s19", 91);
+INSERT INTO users VALUES (20, "t20", 101);
 
 
 -- CREATE TABLE users (
 --   id INTEGER PRIMARY KEY,
 --   name TEXT,
 --   age INTEGER);
--- 
+--
 -- CREATE TABLE pledges (
 --   id INTEGER PRIMARY KEY,
 --   amount INTEGER,
 --   user_id INTEGER,
---   project_id INTEGER); 
+--   project_id INTEGER);
